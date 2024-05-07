@@ -8,9 +8,13 @@ The file `chest-tb.ipynb` is a self-contained notebook containing all the code f
 
 ## Contribution
 
-**Ruohang Feng** is responsible for the entire project, including data preprocessing, model training, and evaluation.
+**Ruohang Feng** is responsible for "chest-tb.ipynb".
 
-## References
+**Hoiting Mok** is responsible for "tb_resnet50_cls.ipynb".
+
+**Junye Pan** is responsible for " ".
+
+## Ruohang's References
 
 - [TB detection from X-ray | Kaggle](https://www.kaggle.com/code/anandsubbu007/tb-detection-from-x-ray)
 - [Chest X-Ray image segmentation | GitHub](https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet)
