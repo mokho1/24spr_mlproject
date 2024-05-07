@@ -23,8 +23,8 @@ The file `chest-tb.ipynb` is a self-contained notebook containing all the code f
 
 ## Mok: Classification of Chest X-Rays into Sick, TB, and Healthy using ResNet50
 
-Dataset: TBX11K
-Paper reference: Rethinking Computer-aided Tuberculosis Diagnosis
-Citation: Liu, Yun, et al. “Rethinking computer-aided tuberculosis diagnosis.” 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2020, https://doi.org/10.1109/cvpr42600.2020.00272. 
+- Dataset: TBX11K
+- Paper reference: Rethinking Computer-aided Tuberculosis Diagnosis
+- Citation: Liu, Yun, et al. “Rethinking computer-aided tuberculosis diagnosis.” 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2020, https://doi.org/10.1109/cvpr42600.2020.00272. 
 
 All commands to run the file is included in the ipynb file. Please use file outline to navigate. 
