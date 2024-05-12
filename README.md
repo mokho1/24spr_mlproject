@@ -32,5 +32,5 @@ All commands to run the file is included in the ipynb file. Please use file outl
 ## Pan: Detection of Chest X-Rays based on YOLOv8
 - Dataset: TBX11K
 - Paper reference: Rethinking Computer-aided Tuberculosis Diagnosis, You Only Look Once: Unified, Real-Time Object Detection
-To run this project, please first read the instrunctions in "train.ipynb"
-For the results, see "results" folder
+- To run this project, please first read the instrunctions in "train.ipynb"
+- For the results, see "results" folder
