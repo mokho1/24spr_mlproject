@@ -6,7 +6,7 @@
 
 **Hoiting Mok** is responsible for `tb_resnet50_cls.ipynb`.
 
-**Junye Pan** is responsible for ` `.
+**Junye Pan** is responsible for `tb_detection`.
 
 ## Feng: Classication of lung tuberculosis with DenseNet as Backbone
 
@@ -29,4 +29,4 @@ The file `chest-tb.ipynb` is a self-contained notebook containing all the code f
 
 All commands to run the file is included in the ipynb file. Please use file outline to navigate. 
 
-## Pan: Detection of Chest X-Rays by YOLO
+## Pan: Detection of Chest X-Rays based on YOLOv8
