@@ -2,11 +2,11 @@
 
 ## Contributions
 
-**Ruohang Feng** is responsible for "chest-tb.ipynb".
+**Ruohang Feng** is responsible for 'chest-tb.ipynb'.
 
-**Hoiting Mok** is responsible for "tb_resnet50_cls.ipynb".
+**Hoiting Mok** is responsible for 'tb_resnet50_cls.ipynb'.
 
-**Junye Pan** is responsible for " ".
+**Junye Pan** is responsible for ' '.
 
 ## Feng: Classication of lung tuberculosis with DenseNet as Backbone
 
